@@ -1,0 +1,10 @@
+C:\Users\ABBAS\source\repos\CSharp_Task\CSharp_Task\bin\Debug\CSharp_Task.exe.config
+C:\Users\ABBAS\source\repos\CSharp_Task\CSharp_Task\bin\Debug\CSharp_Task.exe
+C:\Users\ABBAS\source\repos\CSharp_Task\CSharp_Task\bin\Debug\CSharp_Task.pdb
+C:\Users\ABBAS\source\repos\CSharp_Task\CSharp_Task\obj\Debug\CSharp_Task.csprojAssemblyReference.cache
+C:\Users\ABBAS\source\repos\CSharp_Task\CSharp_Task\obj\Debug\CSharp_Task.Properties.Resources.resources
+C:\Users\ABBAS\source\repos\CSharp_Task\CSharp_Task\obj\Debug\CSharp_Task.csproj.GenerateResource.cache
+C:\Users\ABBAS\source\repos\CSharp_Task\CSharp_Task\obj\Debug\CSharp_Task.csproj.CoreCompileInputs.cache
+C:\Users\ABBAS\source\repos\CSharp_Task\CSharp_Task\obj\Debug\CSharp_Task.exe
+C:\Users\ABBAS\source\repos\CSharp_Task\CSharp_Task\obj\Debug\CSharp_Task.pdb
+C:\Users\ABBAS\source\repos\CSharp_Task\CSharp_Task\obj\Debug\CSharp_Task.BooksCSV.resources
